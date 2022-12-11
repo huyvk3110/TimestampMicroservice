@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/huyvk3110/TimestampMicroservice#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
